@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My First Application</string>
+
+    // String buat container nama
+    <string name="name_hint">Insert your name</string>
+    <string name="name_value">Empty</string>
+    <string name="button_name_value">Submit</string>
+    <string name="name_greet">My name is: </string>
+    <string name="name_empty">Field is empty!</string>
+
+    // String buat container NIM
+    <string name="nim_hint">Insert your NIM</string>
+    <string name="nim_value">Empty</string>
+    <string name="button_nim_value">Submit</string>
+    <string name="nim_greet">My NIM is: </string>
+    <string name="nim_empty">Field is empty!</string>
+    <string name="nim_not_11_digits">Silahkan input 11 digit</string>
+
+</resources>
